@@ -93,6 +93,7 @@ par(mfrow = c(2, 2))   #
 plot(abalone_model)    # 
 
 ```
+**Residuals seem Homoscedastic based on residuals vs fitted and scale location plot. Residuals seem normally distributed based on the QQ Plot. There were also no outliers based on Residuals vs leverage.
 
 ### Model summary
 
